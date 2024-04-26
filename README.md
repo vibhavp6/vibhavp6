@@ -1,3 +1,5 @@
+![logo](https://github.com/vibhavp6/vibhavp6/blob/main/Vibhav.png)
+
 <h1 align="center">Hi 👋, I'm Vibhav Pandey</h1>
 <h3 align="center">"Hello, my name is Vibhav Pandey and I'm excited to be here. As someone with a passion for technology, I've been exploring different areas of the tech industry.</h3>
 
