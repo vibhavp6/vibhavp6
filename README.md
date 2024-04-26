@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vibhavp6.github.io/My-Portfolio/](https://vibhavp6.github.io/My-Portfolio/)
 
-- 💬 Ask me about **DSA,React,NodeJs,NextJs,MangoDB,Frontend ,Backend**
+- 💬 Ask me about **DSA,React,NodeJs,NextJs,MangoDB,Frontend ,Backend.**
 
 - 📫 How to reach me **vibhavpandeystudent@gmail.com**
 
