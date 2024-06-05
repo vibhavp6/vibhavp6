@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhavp6&label=Profile%20views&color=0e75b6&style=flat" alt="vibhavp6" /> </p>
 
-- 🔭 I’m currently working on [React.Js , Next.Js]
+- 🔭 I’m currently working on [React.Js, Next.Js]
 
 - 🌱 I’m currently learning **DSA,React,NodeJs,NextJs,MangoDB**
 
