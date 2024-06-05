@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vibhavpandeystudent@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SQ4Q7ab-Ax6N2O-crm_Pc3pdGCUZoCUr/view?usp=drive_link](https://drive.google.com/file/d/1SQ4Q7ab-Ax6N2O-crm_Pc3pdGCUZoCUr/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/file/d/18adrKdtxRnCJ3l7DfQEt__1m_A3gMzM4/view?usp=drive_link)
 
 - ⚡ Fun fact **I have Good Sense of Humor😉!!!**
 
