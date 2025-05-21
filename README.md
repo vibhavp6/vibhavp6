@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **DSA,React,NodeJs,NextJs,MangoDB**
 
-- 👯 I’m looking to collaborate on [Portfolio](https://vibhavp6.github.io/My-Portfolio/)
-
 - 👨‍💻 All of my projects are available at [https://vibhavp6.github.io/My-Portfolio/](https://vibhavp6.github.io/My-Portfolio/)
 
 - 💬 Ask me about **DSA,React,NodeJs,NextJs,MangoDB,Frontend ,Backend.**
