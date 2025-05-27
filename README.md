@@ -11,7 +11,7 @@
 
 - 🔍 I’m currently exploring **System Design, Backend Architecture, and Advanced React Patterns**
 
-- 🌟 Recent Project: [Zentry - Gaming Animated Website](https://github.com/vibhavp6/Zentry-Gaming-Animated-Website) | [Live](https://project2byvibhav.netlify.app/)
+- 🌟 Recent Project: [Dev Sync - A collaborative, real-time code Editor](https://github.com/vibhavp6/Dev-Sync) | [Live](https://code-sync-live.vercel.app/)
 
 - 🌟 Another Project: [Brainwave - UI/UX Modern Website](https://github.com/vibhavp6/Brainwave) | [Live](https://project-brainwave-jan2025.netlify.app/)
 
